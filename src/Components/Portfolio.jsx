@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/2.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Weather app",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "ReactJS-based weather app providing current weather information globally. Offers real-time weather updates, customizable settings, and location-based forecasts",
+    url: " weatherr-app1.netlify.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Resume-Builder",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Crafted an intuitive user interface facilitating effortless resume creation and editing. Provided a diverse selection of industry-specific templates.Implemented a PDF export feature, enabling seamless downloading of resumes in a professional format",
+    url: "rresume-builder.netlify.app/",
   },
   {
-    title: "My Resume Site",
+    title: "rock-paper-scissors",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Rock paper scissors is an intransitive hand game, usually played between two people, in which each player simultaneously forms one of three shapes with an outstretched hand. These shapes are rock, paper, and scissors.",
+    url: "https://1rock-paper-scissors.netlify.app",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "speech-to-text",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Speech to text is a speech recognition software that enables the recognition and translation of spoken language into text through computational linguistics",
+    url: "https://speech-to-text1.netlify.app",
   },
 ];
 
